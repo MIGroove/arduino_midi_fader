@@ -1,7 +1,7 @@
 # arduino_midi_fader
 
 
-Arduinoを用いた3chmidiフェーダーです・
+Arduinoを用いた3chmidiフェーダーです。  
 ストリングス打ち込みに必要な最低限のチャンネル数としています。
 
 参考
