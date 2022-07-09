@@ -25,8 +25,6 @@ while(true){
      
    //Refarence:MIDI.sendControlChange (DataByte inControlNumber , DataByte inControlValue , Channel inChannel )
    //Assignable controls CC slots (14-31) 
-   //  if (abs(A0NoiseFilter -analogRead(A0) >=2){
-
 
 //ループ前と同一の値のCCが入力されたとき、CCの出力をしない
   if (A0tmp !=Slot0){
