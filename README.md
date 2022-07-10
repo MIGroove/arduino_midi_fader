@@ -10,7 +10,7 @@ Spitfire Audio : [The Secret to Orchestral Programming](https://www.youtube.com/
 
 ## 導入方法
 動画を参照してください 
-Arduino にはmocolufaを導入してください
+https://www.nicovideo.jp/watch/sm40748420
 
-### 使用部品
+Arduino にはmocolufaを導入してください
 
